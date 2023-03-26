@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Tobias Stanislavsky</h1>
-<h3 align="center">Soy un estudiante apasionado del desarrollo front end, me encanta aprender nuevas tecnologias y seguir creciendo en el mundo dev</h3>
+<h3 align="center">Soy un estudiante apasionado de la programacion, me encanta aprender nuevas tecnologias y seguir creciendo en el mundo dev</h3>
 
 - 🔭 Mi Portfolio Entra (https://tobias-stani.github.io/Portafolio/)
 
