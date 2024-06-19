@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, yo soy Tobias Stanislavsky</h1>\
+<h1 align="center">Hola 👋, yo soy Tobias Stanislavsky</h1>
 
-<h3 align="center">Soy un estudiante apasionado de la programación, especializado en desarrollo fullstack con PHP y un fuerte enfoque en Symfony. Me encanta aprender nuevas tecnologías y seguir creciendo en el mundo del desarrollo. Me apasiona crear aplicaciones web eficientes y escalables, siempre buscando implementar las mejores prácticas de desarrollo. Además de mis habilidades técnicas, valoro el trabajo en equipo y la colaboración, creyendo firmemente que el intercambio de conocimientos es clave para el crecimiento profesional y personal.</h3>
+<h3 align="center">Soy un apasionado estudiante de programación especializado en desarrollo fullstack con PHP y un enfoque sólido en Symfony. Disfruto adquirir nuevas tecnologías y avanzar en el ámbito del desarrollo. Mi pasión es crear aplicaciones web eficaces y escalables, siempre procurando aplicar las mejores prácticas de desarrollo. Junto con mis habilidades técnicas, aprecio el trabajo en equipo y la colaboración, considero que compartir conocimientos es fundamental para el crecimiento profesional y personal.</h3>
 
 
 - 🔭 Mi Portfolio: [Aquí](https://tobias-stani.github.io/Portafolio/)
