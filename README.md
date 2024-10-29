@@ -137,8 +137,6 @@ const contactInfo = {
 
 </div>
 
-[El resto del README permanece igual]
-
 ---
 
 <div align="center">
